@@ -1,3 +1,3 @@
 # DodgeGame
 
-DODGE PRACTİCE FOR LEAGUE OF LEGENDS
+Dodge Practice for League of Legends
